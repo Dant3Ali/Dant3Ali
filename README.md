@@ -13,6 +13,9 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
 
+## 📬Contacts
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/sterakare)
+
 <!--
 **Dant3Ali/Dant3Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
