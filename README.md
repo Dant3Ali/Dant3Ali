@@ -2,28 +2,23 @@
 
 ## 🛠️ Main stack
 
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=for-the-badge)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
-![gRPC](https://img.shields.io/badge/-gRPC-20C997?logo=grpc&logoColor=white&style=for-the-badge)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+<!-- Go --> <a href="https://go.dev" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" height="40"/> </a> 
+<!-- PostgreSQL --> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" height="40"/> </a> 
+<!-- Docker --> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" height="40"/> </a> 
+<!-- Kafka --> <a href="https://kafka.apache.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" height="40"/> </a> 
+<!-- Redis --><a href="https://redis.io/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" height="40"/> </a> 
+<!-- gRPC --> <a href="https://grpc.io/" target="_blank"> <img src="https://grpc.io/img/logos/grpc-icon-color.png" alt="gRPC" height="40"/> </a>
+<!-- JavaScript --> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" height="40"/> </a> 
+<!-- TypeScript --> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" height="40"/> </a> 
+<!-- React --> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" height="40"/> </a>
+<!-- Sass --> <a href="https://sass-lang.com/" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" height="40"/> </a>
 
 ## 📬Contacts
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/sterakare)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sterakare@gmail.com)
 
-## ⚙️Leetcode stats
+## Leetcode stats
+</div>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/doryush_khodjaev)
-
-</div>
-<!--
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dant3Ali&show_icons=true&hide=prs&theme=default)
--->
