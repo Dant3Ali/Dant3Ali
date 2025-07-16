@@ -19,7 +19,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/sterakare)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sterakare@gmail.com)
 
-## Leetcode stats
+## ⚙️Leetcode stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/doryush_khodjaev)
 
