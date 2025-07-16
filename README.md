@@ -15,6 +15,7 @@
 
 ## 📬Contacts
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/sterakare)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sterakare@gmail.com)
 
 <!--
 **Dant3Ali/Dant3Ali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
