@@ -17,6 +17,11 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/sterakare)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sterakare@gmail.com)
 
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/doryush_khodjaev)
+
+
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dant3Ali&show_icons=true&hide=prs&theme=default)
 -->
