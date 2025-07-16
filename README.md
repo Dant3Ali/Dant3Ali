@@ -19,6 +19,6 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sterakare@gmail.com)
 
 ## Leetcode stats
-</div>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/doryush_khodjaev)
+</div>
