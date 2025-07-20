@@ -1,9 +1,7 @@
 <div align="center">
 
-## Hi there!
+## Hi there! I'm software engineer from St. Petersburg
 </div>
-
-### I'm software engineer from St. Petersburg
 
 <div align="center">
 ## 🛠️ Main stack
