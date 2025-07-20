@@ -3,7 +3,9 @@
 ## Hi there! I'm software engineer from St. Petersburg
 </div>
 
+
 <div align="center">
+  
 ## 🛠️ Main stack
 
 <!-- Go --> <a href="https://go.dev" target="_blank"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" alt="Go" height="40"/> </a> 
